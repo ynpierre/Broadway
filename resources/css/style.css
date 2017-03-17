@@ -1,0 +1,58 @@
+﻿h1.headerAttribute{/* class of h1 */
+	font-family:Helvetica;
+	font-size:70px;
+	font-weight:bold;
+	color:white;
+	text-align:center;
+	}
+h2.attrib{
+	text-align:center;
+	font-family:Hevetica;
+	font-size:32px;
+	font-weight:bold;
+}
+p.identity{
+	text-align:center;
+	font-size:32px;
+	font-weight:bold;
+}
+p.othertext{
+	font-family:Helvetica;
+	font-size:14px;
+	color:black;
+	text-align:center;
+}
+p.otherheader{
+	
+	font-family:Helvetica;
+	font-size:23px;
+	font-weight:bold;
+	color:white;
+	text-align:center;
+	background-image:url('../img/the-flatiron-building.png');
+}
+img.position{
+	top:auto;
+	left:48%;
+	position:relative;
+}
+#headerbkground{ /* this is used as id */
+	background-image:url('../img/the-flatiron-building.png');
+	text-align:center;
+	color: white;
+}
+div.footerBackground{
+	background-color:gray;
+	text-align:left;
+}
+a.footer{
+	color:white;
+	font-family:Helvetica;
+	font-size:11px;
+}
+a.otherfooter{
+	color:white;
+	font-family:Helvetica;
+	font-size:20px;
+	font-weight:bold;
+}
